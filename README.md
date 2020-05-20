@@ -3,4 +3,4 @@ Document map (aka minimap) for wx.stc.StyledTextCtrl editor control
 
 File *SPyE - Copy.py* serves as a demo source file. Change it to whatever suits you.
 
-[comment]: ![Demo animation](./demo.gif)
+![Demo animation](./demo.gif)
