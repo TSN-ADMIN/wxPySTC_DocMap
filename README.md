@@ -1,4 +1,4 @@
 # wxPySTC_DocMap
 Document map (aka minimap) for wx.stc.StyledTextCtrl editor control
 
-File *SPyE - Copy.py* is a demo source file for demo use.
+File *SPyE - Copy.py* serves as a demo source file. Change it to whatever suits you.
